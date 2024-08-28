@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# Facial_emotion_detection
-=======
 # Facial Emotion Recognition
 
 Facial Emotion Recognition is a deep learning project that aims to detect and classify human emotions from facial expressions. This project leverages multiple models, including Convolutional Neural Networks (CNNs) and Vision Transformers (ViTs), to achieve high accuracy in recognizing different emotions.
@@ -83,4 +80,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Limitation
 
 Due to hardware limitation better models cannot be used with fusion of deep learning algorithm
->>>>>>> 5ff652c (Initial commit)
